@@ -13,6 +13,7 @@ Built with [Kaplay](https://kaplayjs.com) + Vite.
 | Phone | PLAY / THROW buttons |
 
 Stages speed up, reverse, and start wobbling. Best score stays in `localStorage`.
+Phone shows a big THROW button.
 
 ```bash
 npm install
