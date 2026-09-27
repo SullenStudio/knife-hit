@@ -1,0 +1,17 @@
+{
+  "name": "knife-hit",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "kaplay": "^3001.0.19"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
